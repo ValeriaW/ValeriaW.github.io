@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Comand Line completed
-
 ---
 
 My first homework post confirming the completion of the Comand Line Course on CodeAcademy!

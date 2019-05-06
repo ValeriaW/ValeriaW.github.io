@@ -1,7 +1,6 @@
 ---
 layout: Post
 title: Python 1 + 2 completed
-
 ---
 
 My third homework post confirming the completion of the first two units of the Python 2 course on CodeAcademy!

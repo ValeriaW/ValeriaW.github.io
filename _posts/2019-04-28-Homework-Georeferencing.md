@@ -2,6 +2,7 @@
 layout: Post
 title: Georeferencing Homework
 ---
+
 # Homework 4
 
 My fourth homework post concerning QGIS!
