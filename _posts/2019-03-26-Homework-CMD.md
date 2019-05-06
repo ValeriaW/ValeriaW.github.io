@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Comand Line completed
+title: Command Line completed
 ---
 
-My first homework post confirming the completion of the Comand Line Course on CodeAcademy!
+My first homework post confirming the completion of the Command Line Course on CodeAcademy!
 <!-- more -->
 
 # Homework 1

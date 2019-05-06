@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Python 1 + 2 completed
 ---
 
