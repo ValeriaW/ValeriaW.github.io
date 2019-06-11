@@ -20,7 +20,7 @@ title: TNT Valeria W
 description: TNT—Tools & Techniques for Digital Humanities - a student's homework blog
 
 # --- Navigation bar options --- #
-
+ 
 # List of links in the navigation bar
 navbar-links:
   About: "about"
@@ -42,9 +42,9 @@ title-img: "/Headerimage.JPG"
 
 navbar-img: "/img/Avatard.JPG"
 navbar-text-col: "#000000"
-navbar-children-col: "#6B8E23"
+navbar-children-col: "#0037b4"
 page-col: "#FFFFFF"
-link-col: "#556B2F"
+link-col: "#0037b4"
 hover-col: "#000000"
 footer-col: "##8FBC8B"
 footer-text-col: "#000000"
@@ -54,8 +54,8 @@ footer-link-col: "#556B2F"
 # instead of colour
 
 navbar-img: "/img/Avatard.JPG"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+footer-img: "/img/Avatard.JPG"
+page-img: "/img/Avatard.JPG"
 
 # --- Footer options --- #
 
