@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modeling - A Study in Words and Meanings" and Python 1 and 2
+title: Modeling - A Study in Words and Meanings" and Python 1 and 2
 ---
 
 # Homework 3
