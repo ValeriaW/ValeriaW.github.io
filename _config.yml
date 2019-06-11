@@ -42,7 +42,7 @@ title-img: "/img/Background.JPG"
 
 navbar-img: "/img/Background.JPG"
 navbar-text-col: "#000000"
-navbar-children-col: "#0037b4"
+navbar-children-col: "#000000"
 page-col: "#FFFFFF"
 link-col: "#0037b4"
 hover-col: "#000000"

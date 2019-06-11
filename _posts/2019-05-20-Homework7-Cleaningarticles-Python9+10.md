@@ -1,5 +1,5 @@
 ---
-title: 20.05.2019 - Cleaning articles and Python 9 + 10
+title: Cleaning articles and Python 9 + 10
 ---
 <!-- more -->
 
