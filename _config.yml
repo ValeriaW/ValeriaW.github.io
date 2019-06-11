@@ -34,13 +34,13 @@ avatar: "/img/Avatar.JPG"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: "/img/Background.JPG"
+#title-img: "/img/Background1.JPG"
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-# navbar-img: "/img/Background.JPG"
+# navbar-img: "/img/Background1.JPG"
 navbar-text-col: "#000000"
 navbar-children-col: "#000000"
 page-col: "#FFFFFF"
@@ -53,9 +53,9 @@ footer-link-col: "#556B2F"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/img/Background.JPG"
-footer-img: "/img/Background.JPG"
-page-img: "/img/Background.JPG"
+#navbar-img: "/img/Background1.JPG"
+footer-img: "/img/Background1.JPG"
+page-img: "/img/Background1.JPG"
 
 # --- Footer options --- #
 
