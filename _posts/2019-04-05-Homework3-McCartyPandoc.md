@@ -1,11 +1,7 @@
 ---
-
 layout: post
 title: "Modeling - A Study in Words and Meanings" and Python 1 and 2
-subtitle: Edited by Valeria
-
 ---
-
 
 # Homework 3
 
