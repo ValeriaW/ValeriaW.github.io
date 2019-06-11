@@ -1,0 +1,66 @@
+---
+layout: post
+title: Georeferencing Homework and Python 3 and 4
+---
+
+
+
+My fourth homework post confirming the completion of the third and fourth units of the Python 2 course on CodeAcademy as well as the homework assignment on QGIS!
+<!-- more -->
+
+# Homework 4
+
+***
+
+![Confirmation](/img/Python3+4.png)
+
+~~~city,state,lon,lat,lon1,lat1
+New York,New York,-8234229.297,4970380.761,-8234229.297,4970380.761
+Philadelphia,Pennsylvania,-8368867.370,4858182.367,-8368867.370,4858182.367
+Louisville, Kentucky,-85.69563,38.24460,-9539594.380,4614036.860
+Cincinatti, Ohio,-84.52235,39.08329,-9408984.589,4733609.204
+Charlotte, North Carolina,-80.82071,35.19883,-8996919.897,4190934.721
+Indianapolis, Indiana,-86.04266,39.77256,-9578225.445,4832946.227
+Pittsburg, Pennsylvania,-79.97792,40.45500,-8903101.597,4932283.251
+Atlanta, Georgia,-84.37362,33.74117,-9392428.419,3994100.247
+Washington DC, District of Columbia,-77.03644,38.87775,-8575657.333,4704176.011
+Kansas City, Kansas,-94.58618,39.09612,-10529285.471,4735448.778
+Springfield, Missouri,-93.26417,37.17260,-10382119.509,4463191.749
+Fayetteville, Arkansas,-94.18958,36.09852,-10485135.682,4314186.213
+Birmingham, Alabama,-86.80282,33.53480,-9662845.873,3966506.630
+Tulsa, Oklahoma,-96.00735,36.15191,-10687488.879,4321544.512
+Oklahoma City, Oklahoma,-97.49461,35.48191,-10853050.586,4229565.786
+Dallas, Texas,-96.80055,32.74610,-10775788.456,3861650.882
+Memphis, Tennessee,-90.04176,35.15831,-10023402.478,4185415.997
+Knoxville, Tennessee,-83.87786,35.99163,-9337241.183,4299469.617
+Austin, Texas,-97.75902,30.25249,-10882483.778,3536046.193
+New Orleans, Louisiana,-90.02523,29.95226,-10021562.904,3497415.128
+~~~
+
+
+![Confirmation](/img/Map01.modified.png)
+
+~~~city,state,lon,lat,lon1,lat1
+Brooklyn,New York,-73.93358,40.67120,-8230248.822,4963964.310
+Portland,Maine,-70.23386,43.66566,-7818397.541,5413846.904
+Cape May,New Jersey,-74.91268,38.93007,-8339240.997,4711659.021
+Tuckerton,New Jersey,-74.33772,39.60100,-8275237.081,4808128.690
+St. Louis,Missouri,-90.16987,38.62475,-10037663.735,4668062.151
+Gallatica,Missouri,-93.94458,39.90849,-10457863.353,4852653.153
+Iowa City,Iowa,-91.51143,41.64983,-10187006.204,5108668.815
+Houston,Texas,-95.35281,29.74286,-10614626.566,3470539.619
+Mississippi City,Mississippi,-89.03662,30.37751,-9911511.091,3552167.801
+New Orleans,Louisiana,-90.07821,29.95967,-10027460.213,3498367.409
+Tallahassee,Florida,-84.26198,30.43500,-9380000.316,3559588.545
+Jacksonville,Florida,-81.66217,30.32717,-9090591.307,3545674.650
+Toronto,Ontario,-79.36651,43.64154,-8835039.442,5410136.532
+Belfast,Maine,-69.00895,44.42630,-7682041.373,5531651.212
+Boston,Massachusetts,-71.04213,42.34956,-7908374.059,5213486.821
+Philadelphia,Pennsylvania,-75.17099,39.94683,-8367996.379,4858218.711
+Dublin,Georgia,-82.90374,32.53812,-9228802.660,3834156.066
+Baltimore,Maryland,-76.59588,39.30503,-8526614.778,4765459.414
+Russellville,Louisiana,-93.12381,35.27623,-10366495.445,4201482.884
+Charleston,South Carolina,-79.92897,32.76964,-8897651.968,3864766.634
+~~~
+
+![Confirmation](/img/Map2_modified.png)

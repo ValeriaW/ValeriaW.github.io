@@ -17,7 +17,7 @@ baseurl: ""
 title: TNT Valeria W
 
 # Short description of your site
-description: TNT—Tools & Techniques for Digital Humanities
+description: TNT—Tools & Techniques for Digital Humanities - a student's homework blog
 
 # --- Navigation bar options --- #
 
@@ -25,12 +25,12 @@ description: TNT—Tools & Techniques for Digital Humanities
 navbar-links:
   About: "about"
   
-
+* actually none of your business!
 #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/Avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#556B2F"
+navbar-img: "/img/Headerimage.jpg"
 navbar-text-col: "#000000"
 navbar-children-col: "#6B8E23"
 page-col: "#FFFFFF"
