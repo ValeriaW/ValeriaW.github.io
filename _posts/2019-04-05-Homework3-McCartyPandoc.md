@@ -1,11 +1,9 @@
 ---
+
 layout: post
 title: "Modeling - A Study in Words and Meanings" and Python 1 and 2
 subtitle: Edited by Valeria
-author: Willard McCarty
-date: 04.04.2019
-bibliography: tnt-model.bib
-csl: cms-fullnote.csl
+
 ---
 
 
