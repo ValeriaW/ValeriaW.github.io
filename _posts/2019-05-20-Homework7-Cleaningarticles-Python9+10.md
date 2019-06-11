@@ -3,15 +3,14 @@ title: 20.05.2019 - Cleaning articles and Python 9 + 10
 ---
 <!-- more -->
 
-###Header Homework 7
+# Homework 7
 
 
 My seventh homework post confirming the completion of the ninth and tenth unit of the Python 2 course on CodeAcademy as well as the description of how to clean your data using Python!
 <!-- more -->
 
-# Homework 7
 
-##How to:
+## How to:
 
 The first part of the homework we had to complete was the creation of clean copies of issues from the scraped data, while keeping the originals intact.
 

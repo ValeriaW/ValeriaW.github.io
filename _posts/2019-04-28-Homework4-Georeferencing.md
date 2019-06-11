@@ -3,12 +3,11 @@ layout: post
 title: Georeferencing Homework and Python 3 and 4
 ---
 
-
+# Homework 4
 
 My fourth homework post confirming the completion of the third and fourth units of the Python 2 course on CodeAcademy as well as the homework assignment on QGIS!
 <!-- more -->
 
-# Homework 4
 
 ***
 
@@ -38,7 +37,7 @@ New Orleans, Louisiana,-90.02523,29.95226,-10021562.904,3497415.128
 ~~~
 
 
-![Confirmation](/img/Map01.modified.png)
+![Confirmation](/img/Map1.modified.png)
 
 ~~~city,state,lon,lat,lon1,lat1
 Brooklyn,New York,-73.93358,40.67120,-8230248.822,4963964.310
@@ -63,4 +62,4 @@ Russellville,Louisiana,-93.12381,35.27623,-10366495.445,4201482.884
 Charleston,South Carolina,-79.92897,32.76964,-8897651.968,3864766.634
 ~~~
 
-![Confirmation](/img/Map2_modified.png)
+![Confirmation](/img/Map2.modified.png)

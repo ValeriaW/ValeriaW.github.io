@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 
-    "Modeling - A Study in Words and Meanings" and Python 1 and 2
+title: "Modeling - A Study in Words and Meanings" and Python 1 and 2
 subtitle: Edited by Valeria
 author: Willard McCarty
 date: 04.04.2019
@@ -10,13 +9,13 @@ csl: cms-fullnote.csl
 ---
 
 
+# Homework 3
 
 My third homework post confirming the completion of the first two units of the Python 2 course on CodeAcademy and the conversion of the MCCarty document using Pandoc.
 
 
 <!-- more -->
 
-# Homework 3
 
 ***
 

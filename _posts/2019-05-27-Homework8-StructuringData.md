@@ -3,13 +3,12 @@ title: 27.05.2019 - Structuring Data and Python 11 + 12
 ---
 <!-- more -->
 
-##Header Homework 8
+# Homework 8
 
 
 My eighth homework post confirming the completion of the eleventh and twelfth unit of the Python 2 course on CodeAcademy as well as the description of how to structure your data using TSV and Python!
 <!-- more -->
 
-# Homework 8
 
 ***
 

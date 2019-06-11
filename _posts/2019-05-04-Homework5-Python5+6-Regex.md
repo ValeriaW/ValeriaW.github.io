@@ -3,6 +3,8 @@ layout: post
 title: Python 5 + 6 completed
 ---
 
+# Homework 5
+
 My fifth homework post confirming the completion of the 5th and 6th unit of the Python 2 course on CodeAcademy as well as the Regex Praxis Sheet!
 <!-- more -->
 
@@ -185,7 +187,7 @@ PART II (more practice)
 	1) \b([\w+ ])+ \(Lower Austria\)
 	2) \b([\w+ ])+ \(Salzburg\)
 
-# Homework 5
+
 
 ***
 

@@ -29,6 +29,5 @@ Finally, use wget in Terminal with the links.
 
 <!-- more -->
 
-# Homework 6
 
 ***
