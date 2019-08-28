@@ -1,5 +1,5 @@
 ---
-title: 27.05.2019 - Structuring Data and Python 11 + 12
+title: Structuring Data and Python 11 + 12
 ---
 <!-- more -->
 
