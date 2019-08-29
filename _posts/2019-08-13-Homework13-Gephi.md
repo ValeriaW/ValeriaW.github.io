@@ -17,7 +17,7 @@ Using the topographic data from our Dispatch that we extracted for the homework 
 
 The CSV file for the geographical representation using Geolayout includes, ID, target, source and in this case longitude and latitude. It is the nodes file. When importing the file, the longitude and latitude data needs to be set as "Double" in order for Gephi to pick up on them as geographical inputs. After installing the Geolayer plugin, all the nodes of places can be displayed in mapform. Before importing the nodes file, an edges table with source, target and weight must be imported to the programme. The weight is in this case defined by the frequency of mentions. After several attempts, I found that restricting the data to one year yields the most visually intelligible networks, as a too complex data set is rather useless for analysis in this case. An early network with too much data looked like this:
 
-![Failblob](img/Earlyblob.png)
+![Failblob](/img/Earlyblob.png)
 
 The filtered version of the dispatch data that I ended up with after I set in place filters:
 
