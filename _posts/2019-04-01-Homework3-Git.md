@@ -3,9 +3,9 @@ layout: post
 title: Learn Git completed
 ---
 
-# Homework 2
+# Homework 3
 
-My second homework post confirming the completion of the Learn Git course on CodeAcademy!
+My third homework post confirming the completion of the Learn Git course on CodeAcademy!
 <!-- more -->
 
 

@@ -3,9 +3,9 @@ layout: post
 title: Georeferencing Homework and Python 3 and 4
 ---
 
-# Homework 4
+# Homework 5
 
-My fourth homework post confirming the completion of the third and fourth units of the Python 2 course on CodeAcademy as well as the homework assignment on QGIS!
+My fifth homework post confirming the completion of the third and fourth units of the Python 2 course on CodeAcademy as well as the homework assignment on QGIS!
 <!-- more -->
 
 

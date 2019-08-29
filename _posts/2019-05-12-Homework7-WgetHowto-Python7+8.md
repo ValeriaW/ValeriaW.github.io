@@ -3,9 +3,9 @@ layout: post
 title: Webscraping with Wget - How-to-Guide by me and Python 7 and 8
 ---
 
-# Homework 6
+# Homework 7
 
-My sixth homework post confirming the completion of the seventh and eighth unit of the Python 2 course on CodeAcademy!
+My seventh homework post confirming the completion of the seventh and eighth unit of the Python 2 course on CodeAcademy!
 <!-- more -->
 
 

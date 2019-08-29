@@ -3,10 +3,10 @@ title: Structuring Data and Python 11 + 12
 ---
 <!-- more -->
 
-# Homework 8
+# Homework 9
 
 
-My eighth homework post confirming the completion of the eleventh and twelfth unit of the Python 2 course on CodeAcademy as well as the description of how to structure your data using TSV and Python!
+My ninth homework post confirming the completion of the eleventh and twelfth unit of the Python 2 course on CodeAcademy as well as the description of how to structure your data using TSV and Python!
 <!-- more -->
 
 

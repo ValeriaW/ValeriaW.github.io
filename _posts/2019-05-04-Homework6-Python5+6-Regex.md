@@ -3,9 +3,9 @@ layout: post
 title: Python 5 + 6 completed
 ---
 
-# Homework 5
+# Homework 6
 
-My fifth homework post confirming the completion of the 5th and 6th unit of the Python 2 course on CodeAcademy as well as the Regex Praxis Sheet!
+My sixth homework post confirming the completion of the 5th and 6th unit of the Python 2 course on CodeAcademy as well as the Regex Praxis Sheet!
 <!-- more -->
 
 ======================================================

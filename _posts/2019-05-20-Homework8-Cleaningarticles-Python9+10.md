@@ -3,10 +3,10 @@ title: Cleaning articles and Python 9 + 10
 ---
 <!-- more -->
 
-# Homework 7
+# Homework 8
 
 
-My seventh homework post confirming the completion of the ninth and tenth unit of the Python 2 course on CodeAcademy as well as the description of how to clean your data using Python!
+My eighth homework post confirming the completion of the ninth and tenth unit of the Python 2 course on CodeAcademy as well as the description of how to clean your data using Python!
 <!-- more -->
 
 

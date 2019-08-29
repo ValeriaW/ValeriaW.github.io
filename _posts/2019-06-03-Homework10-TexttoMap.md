@@ -4,10 +4,12 @@ title: Text to Map
 ---
 
 
-My tenth homework post dealing with text to map techniques!
+
 <!-- more -->
 
-# Homework 10
+#Homework 10
+
+My tenth homework post dealing with text to map techniques!
 
 ***
 
