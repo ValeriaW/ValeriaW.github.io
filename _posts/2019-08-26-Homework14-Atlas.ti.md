@@ -15,31 +15,29 @@ My personal background is actually not history, but it is global studies and mor
 
 Atlas.ti is a qualitative data analysis programme that allows for the coding of documents, interviews, audi files, videos, and images. It further allows you to code twitter data and the georeferencing of data as well. The coded data can then be used to create networks, show the relationship between the codes and combine all kinds of interconnected insights into one report. 
 
-For historians, qualitative data analysis might not hold many uses, however for the humanities in general, qualitative data analysis is a staple and the assistance with coding, and synthesising of conclusions is invaluable. It is a also simply a great tool to create literature reviews and overviews of many docomunents on one specific topic, as is the case for a PhD or a journal article.
+![exampleimages](/img/Imagetable.png)
 
-Facilitates the discovery of patterns and makes analysis across different formats easy in one place. Finally, it helps to generate useful data visualizations for a report, thesis or journal article.
+Above, an example of coded images exported as a table. 
 
-You can collaborate with other people and work with large amounts of data.
+For historians, qualitative data analysis might not hold many uses, however for the humanities in general, qualitative data analysis is a staple and the complementary coding, and synthesising of conclusions is invaluable. The atlas.ti programme is also simply a great tool to create literature reviews and overviews of many docomunents on one specific topic, as is required for a PhD or a journal article.
 
-Even though it says qualitative data analysis, the tool has evolved and you can combine qual and quant, with the main focus on assisting in the creation of a report and the export of data tables to be used in other programmes such as SPSS.
+It facilitates the discovery of patterns and makes analysis across different formats (pdf, video, images, twitter, geodata, networks, audio) easy in one place. Finally, it helps to generate useful data visualizations for a report, thesis or journal article.
+
+You can collaborate with other people and work with large amounts of data. However, it has some limitations when it comes to freely adjusting data you would like to pull from twitter hashtags etc. However, the ease with which tables are generated and exported make it a seemless bridge to further analysis in other programmes.
+
+Even though it says qualitative data analysis, the tool has evolved and you can combine qual and quant (for example survey evaluation), with the main focus on assisting in the creation of a report and the export of data tables to be used in other programmes such as SPSS.
 
 You can further import complete codebooks from previous research, to build upon deductive insights but also work from the 'bottom-up' and create codes from research in an inductive approach.
 
 ##Integration of Thick Data and Big Data
 
-Copmlex systems data
+In the social sciences, a historical over-dependence on quantitative data, as the only empirical source of data, has stifled the analysis of dynamic, non-linear systems phenomena. The recognition of the complex dynamic systems paradigm, wherin open systems require holistic analysis, gave way to new methodologies and in a way re-legitimized qualitative data analysis as a valuable source of data and context for systems modeling in combination with quantitative insights (Flaherty, 2019).
 
-over-dependence on quantitative data. --> not holistic
+Thick data is data from humans that cannot be quantified, has a small sample size, but delivers depth of meaning and context to quantified static data analysis when it is applied to dynamic systems.
 
-Tricia Wang
+Big data is good at making predictions for contained (almost static) systems, however complex *dynamic* systems, especially systems involving human beings that are always non-linear need to be complemented by thick data. On top of that, complex systems analysis that can be achieved by programmes such as the agent-based modeling software *Netlogo*. 
 
-Big data is good in making predictions for contained (almost static) systems, however complex *dynamic* systems, especially systems involving human beings that are always non-linear need to be complemented by thick data. On top of that, complex systems analysis that can be achieved by programmes such as the agent-based modeling software *Netlogo*. 
-
-Big data needs to be interpreted within the context of ethnographers, who can gather thick data
-
-Thick data is data from humans that cannot be quantified, small sample size, but delivers depth of meaning and context to quantified static data analysis when it is applied to dynamic systems.
-
-The dataset we worked with during the course was very big and the idea of the tools we were introduced to was to use superior scope of automated working processes to analyse data that go beyond what an individual researcher could go through efficiently.
+The dataset we worked with during the course was very big and the idea of the tools we were introduced to was to use superior scope of automated working processes to analyse data that go beyond what an individual researcher could achieve
 
 I think it’s important to distinguish between ‘big data’ and data science more broadly. The latter refers to computationally powered quantitative analysis and modelling techniques, even when applied to ‘smaller’ data sets, while the former is over- and misused to describe exactly that. 
 
@@ -53,9 +51,19 @@ With the example of #ethnography, which yielded more results for the last 7 days
 
 ![Table](/img/Table_Atlas.ti.png)
 
-This is an example from a literature review I had to write for a philosophy class about migration as a global public good.
+This is an example from a literature review I had to wrote for a philosophy class about migration as a global public good "Migration and Distritubive Justice". I coded eight documents in Atlas.ti, figuring out along the way what the important codes were, that I could then later use as subheadings for the literature review. The content codes thus provide a logical structure centered around topics instead of discussing each paper in sequence. For more abstract texts, coding by hand can be the only way to go about it as topic modeling would only yield a limited accuracy. Yet it could provide an initial stepping stone, when the number of documents is very large. 
 
-![Kodes](/img/NetworkCodes.png)
+![Alles](/img/Alles.png)
+
+In the above screenshot you can see the network I created on the basis of the 19 codes that I put into 3 code groups, the 8 documents that I coded and the general setup of the programme.
+
+Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for most researchers, it is still easier to strucutre data in more accessible formats like this (similar to gephi in a way). That is why I wanted to share and add atlas.ti to (my personal) course curriculum.
+
+
+##References
+
+Flaherty, E. (2019). Complexity and Resilience in the Social and Ecological Sciences. Palgrave Macmillan UK.
+
 
 
 
