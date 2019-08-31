@@ -19,17 +19,17 @@ Atlas.ti is a qualitative data analysis programme that allows for the coding of 
 
 Above, an example of coded images exported as a table. 
 
-For historians, qualitative data analysis might not hold many uses, however for the humanities in general, qualitative data analysis is a staple and the complementary coding, and synthesising of conclusions is invaluable. The atlas.ti programme is also simply a great tool to create literature reviews and overviews of many docomunents on one specific topic, as is required for a PhD or a journal article.
+For historians, qualitative data analysis might not hold many uses, however for the humanities in general, qualitative data analysis is a staple and the complementary coding, and synthesising of conclusions is invaluable. The atlas.ti programme is also simply a great tool to create literature reviews and overviews of many documents on one specific topic, as is required for a PhD or a journal article.
 
 It facilitates the discovery of patterns and makes analysis across different formats (pdf, video, images, twitter, geodata, networks, audio) easy in one place. Finally, it helps to generate useful data visualizations for a report, thesis or journal article.
 
-You can collaborate with other people and work with large amounts of data. However, it has some limitations when it comes to freely adjusting data you would like to pull from twitter hashtags etc. However, the ease with which tables are generated and exported make it a seemless bridge to further analysis in other programmes.
+You can collaborate with other people and work with large amounts of data. However, it has some limitations when it comes to freely adjusting data you would like to pull from twitter hashtags etc. The ease with which tables are generated and exported make it a seemless bridge to further analysis in other programmes.
 
-Even though it says qualitative data analysis, the tool has evolved and you can combine qual and quant (for example survey evaluation), with the main focus on assisting in the creation of a report and the export of data tables to be used in other programmes such as SPSS.
+Even though it was created with regard to qualitative data analysis, the tool has evolved and you can combine qual and quant (for example survey evaluation), with the main focus on assisting in the creation of a report and the export of data tables to be used in other programmes such as SPSS.
 
 You can further import complete codebooks from previous research, to build upon deductive insights but also work from the 'bottom-up' and create codes from research in an inductive approach.
 
-##Integration of Thick Data and Big Data
+#Integration of Thick Data and Big Data
 
 In the social sciences, a historical over-dependence on quantitative data, as the only empirical source of data, has stifled the analysis of dynamic, non-linear systems phenomena. The recognition of the complex dynamic systems paradigm, wherin open systems require holistic analysis, gave way to new methodologies and in a way re-legitimized qualitative data analysis as a valuable source of data and context for systems modeling in combination with quantitative insights (Flaherty, 2019).
 
@@ -51,16 +51,16 @@ With the example of #ethnography, which yielded more results for the last 7 days
 
 ![Table](/img/Table_Atlas.ti.png)
 
-This is an example from a literature review I had to wrote for a philosophy class about migration as a global public good "Migration and Distritubive Justice". I coded eight documents in Atlas.ti, figuring out along the way what the important codes were, that I could then later use as subheadings for the literature review. The content codes thus provide a logical structure centered around topics instead of discussing each paper in sequence. For more abstract texts, coding by hand can be the only way to go about it as topic modeling would only yield a limited accuracy. Yet it could provide an initial stepping stone, when the number of documents is very large. 
+This is an example from a literature review I had to write for a philosophy class about migration as a global public good "Migration and Distritubive Justice". I coded eight documents in Atlas.ti, figuring out along the way what the important codes were, that I could then later use as subheadings for the literature review. The content codes thus provide a logical structure centered around topics instead of discussing each paper in sequence. For more abstract texts, coding by hand can be the only way to go about it as topic modeling would only yield a limited accuracy. Yet it could provide an initial stepping stone, when the number of documents is very large. 
 
 ![Alles](/img/Alles.png)
 
 In the above screenshot you can see the network I created on the basis of the 19 codes that I put into 3 code groups, the 8 documents that I coded and the general setup of the programme.
 
-Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for most researchers, it is still easier to strucutre data in more accessible formats like this (similar to gephi in a way). That is why I wanted to share and add atlas.ti to (my personal) course curriculum.
+Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for most researchers, it is still easier to strucutre data in more accessible formats like this (similar to Gephi in a way). That is why I wanted to share and add Atlas.ti to (my personal) course curriculum.
 
 
-##References
+#References
 
 Flaherty, E. (2019). Complexity and Resilience in the Social and Ecological Sciences. Palgrave Macmillan UK.
 
