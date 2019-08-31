@@ -28,8 +28,8 @@ You can collaborate with other people and work with large amounts of data. Howev
 Even though it was created with regard to qualitative data analysis, the tool has evolved and you can combine qual and quant (for example survey evaluation), with the main focus on assisting in the creation of a report and the export of data tables to be used in other programmes such as SPSS.
 
 You can further import complete codebooks from previous research, to build upon deductive insights but also work from the 'bottom-up' and create codes from research in an inductive approach.
-
-#Integration of Thick Data and Big Data
+ 
+# Integration of Thick Data and Big Data
 
 In the social sciences, a historical over-dependence on quantitative data, as the only empirical source of data, has stifled the analysis of dynamic, non-linear systems phenomena. The recognition of the complex dynamic systems paradigm, wherin open systems require holistic analysis, gave way to new methodologies and in a way re-legitimized qualitative data analysis as a valuable source of data and context for systems modeling in combination with quantitative insights (Flaherty, 2019).
 
@@ -60,7 +60,7 @@ In the above screenshot you can see the network I created on the basis of the 19
 Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for most researchers, it is still easier to strucutre data in more accessible formats like this (similar to Gephi in a way). That is why I wanted to share and add Atlas.ti to (my personal) course curriculum.
 
 
-#References
+# References
 
 Flaherty, E. (2019). Complexity and Resilience in the Social and Ecological Sciences. Palgrave Macmillan UK.
 
