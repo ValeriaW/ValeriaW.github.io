@@ -49,14 +49,80 @@ The import will produce a single document with all tweets and a set of codes for
 
 With the example of #ethnography, which yielded more results for the last 7 days than #digital humanities, atlas.ti created this table. All the data can be easily exported in csv format or other, to be used in gephi or further structured using python, e.g. adding coordinates to the locations of the tweets.
 
+# Step by Step guide for coding a literature review
+
+
 ![Table](/img/Table_Atlas.ti.png)
 
 This is an example from a literature review I had to write for a philosophy class about migration as a global public good "Migration and Distritubive Justice". I coded eight documents in Atlas.ti, figuring out along the way what the important codes were, that I could then later use as subheadings for the literature review. The content codes thus provide a logical structure centered around topics instead of discussing each paper in sequence. For more abstract texts, coding by hand can be the only way to go about it as topic modeling would only yield a limited accuracy. Yet it could provide an initial stepping stone, when the number of documents is very large. 
 
+To write a literature review can be seen as a data collection tool. It can be standalone research, or used to inform primary research. In the case of the example lit review (LR), we were supposed to review no more than 10 documents on a topic of distributive justice.
+
+1. Select and import documents
+
+Once the documents for the LR are selected, you can open a new work space in Atlas.ti and import the documents by clicking import documents in the top left corner.
+
+![Step1](/img/Step1.png)
+
+2. Reading the text: Coding, Quotations, Comments
+
+You can read the documents in atlas and code them as you go. To code, select the sentence, paragraph or word that you would like to code, in the case of the example, I coded MDF which stands for Migration Distributive Framework because the snippet I coded is relevant for that cluster to be debated in the literature review. At first, it is challenging to not be too specific while coding but also not to general. It depends on the preference of the researcher, some people like to "chunk" some people like to "splice" and provide a code for very specific pieces of data. Of course, when the codes exceed 100, it is time to see if you can merge codes, or why such an excessibe number of codes is emerging.I prefer to stay as close to the expected subheadings of a LR as possible. Personally, I like to brainstorm before I have read the texts what codes I am expecting and later on I can always amend them as I go. 
+
+The first document is always the hardest, because you need to decide what codes will form the basis for the coding of all other texts.
+
+![Step2](/img/Step2Coding.png)
+
+![Step22](img/Step2-extended.png)
+
+Unfortunately, my programme is in German, but when you right-click, the top option says "create quotation", short cut cmd+ H and then second option from the top is cmd + J and is "create code". To create a quotation is useful, if something is important but you do not yet have an idea of how to code it or it is an important piece of information about the text in general.
+
+Several codes are always useful when creating an LR:
+* Thesis Statement
+* Aim of the text
+* Hypothesis (if applicable)
+
+Further, to the right of the text, you can create a comment about the whole document and summarize the relevance the text bears to your research, or a quick summary of the text and how it links to the other documents. 
+
+![Comment](/img/Commentsection.png)
+
+
+3. After coding: analysis tools
+
+Entity managers: After coding, you can go to the code manager (see image below), where all the coded comments are listed by code and you can create a table of all the codes or select the onces you want to compare in Excel or a report in word (see second picture)
+
+![Codemanager]/(/img/Codemanager.png)
+Codemanager
+
+![Createreporttable](/img/Report:Table.png)
+Creating a report or a table.
+
+Code table:
+![table](/img/Tableee.png)
+
+The table can be used to create a nodes and edges table for Gephi for example.
+
+A code document table serves the purpose of visualising the occurence codes in specific documents. As can be seen in the one I created for the example LR, I have coded the first document a lot but the codes do not appear as often in the subsequent documents. That is because many times, codes become obsolete (they should have general clustering power) when they simply do not apply in the other documents, as arguments on the same topic can be framed very differently.
+
+![Codedocument](/img/Code-document-table.png)
+Code-document table
+
+## Code groups
+
+I have grouped the codes into three clusters: 
+1. Global Justice
+2. Migration policy
+3. Migration Theory
+
+It can be useful when creating a network, simply to visualize logical connections.
+
+
 ![Alles](/img/Alles.png)
 
-In the above screenshot you can see the network I created on the basis of the 19 codes that I put into 3 code groups, the 8 documents that I coded and the general setup of the programme.
+In the above screenshot you can see the network I created on the basis of the 19 codes that I put into 3 code groups, the 8 documents that I coded.
 
+# Alternatives to Atlas.ti
+
+Atlas.ti costs
 Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for most researchers, it is still easier to strucutre data in more accessible formats like this (similar to Gephi in a way). That is why I wanted to share and add Atlas.ti to (my personal) course curriculum.
 
 
