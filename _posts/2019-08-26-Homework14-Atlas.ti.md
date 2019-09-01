@@ -135,11 +135,16 @@ The main rival of Atlas.ti is MaxQDA. Both try to establish themselves as the nu
 
 As I have not used the other QDA software packages,  I can only speak to the pro's and con's of Atlas.ti.
 
-After using it for several different purposes, the main advantage was the versatility and simple logic of content coding. Originally, I had been looking for a QDA software to analyse interviews. One of the most annoying tasks is the transcription of interviews that can take a lot of time. With atlas.ti it is possible to simply code the audio file directly and only transcribe already coded parts of the interviews. That alone was a game-changer for my bachelor thesis. Another pro is the content focused way to read documents in general. I use it for all kinds of assigned reading because later on, I can just pull a report based on the codes I made along the way, much like I would have done previously by re-visiting highlighted sections of a text. 
+After using it for several different purposes (Interview analysis, Programme Evaluation, Literature Reviews), the main advantage was the versatility and simple logic of content coding. Originally, I had been looking for a QDA software to analyse interviews. One of the most annoying tasks is the transcription of interviews that can take a lot of time. With atlas.ti it is possible to simply code the audio file directly and only transcribe already coded parts of the interviews. That alone was a game-changer for my bachelor thesis. Another pro is the content focused way to read documents in general. I use it for all kinds of assigned reading because later on, I can just pull a report based on the codes I made along the way, much like I would have done previously by re-visiting highlighted sections of a text. 
+Further, the software programme has come a long way and the developers are constantly improving and amending the abilities of the programme.
 
-Disadvantages of atlas.ti are the limitations that features have. The twitter import is an amazing tool, yet, it is limited to tweets made in the past 7 days. Overall, for each feature there exists a programme that can perform the tasks more sophisticatedly (ex:Creation of networks/data visualizations in Gephi). 
+Disadvantages of atlas.ti are the limitations that features have. The twitter import is an amazing tool, yet, it is limited to tweets made in the past 7 days. Overall, for each feature there exists a programme that can perform the tasks more sophisticatedly (ex:Creation of networks/data visualizations in Gephi). Another disadvantage is the price of the software.
 
-Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for many researchers, it is still easier to strucutre data in more accessible formats like this (similar to Gephi in a way). That is why I wanted to share and add Atlas.ti to (my personal) course curriculum.
+# Limitations vs. Freedom 
+
+Once a researcher becomes skilled at programming, limitations of software programmes, that made analysis tools for non-IT-versed researchers more accessible, can indeed restrict the possibilities programming has to offer for the humanities. Then open source software and using  R and Python among other things, can open up whole new avenues to analysing data.
+
+However, for many researchers, the digital humanities are still just out of reach and it is easier to strucutre data in more accessible formats like this (similar to Gephi in a way). That is why I wanted to share and add Atlas.ti to (my personal) course curriculum.
 
 
 # References
