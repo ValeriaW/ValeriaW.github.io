@@ -13,13 +13,13 @@ My fourteenth homework post dealing with the qualitative data analysis programme
 
 My personal background is actually not history, but it is global studies and more specifically political psychology. Naturally, qualitative data analysis and so-called 'thick data' are a huge wealth of information that I want to compliment with big data. Why do I think the two go hand in hand?
 
-Atlas.ti is a qualitative data analysis programme that allows for the coding of documents, interviews, audi files, videos, and images. It further allows you to code twitter data and the georeferencing of data as well. The coded data can then be used to create networks, show the relationship between the codes and combine all kinds of interconnected insights into one report. 
+Atlas.ti is a qualitative data analysis programme that allows for the coding of documents, interviews, audio files, videos, and images. It further allows you to code twitter data and the georeferencing of data as well. The coded data can then be used to create networks, show the relationship between the codes and combine all kinds of interconnected insights into one report. 
 
 ![exampleimages](/img/Imagetable.png)
 
 Above, an example of coded images exported as a table. 
 
-For historians, qualitative data analysis might not hold many uses, however for the humanities in general, qualitative data analysis is a staple and the complementary coding, and synthesising of conclusions is invaluable. The atlas.ti programme is also simply a great tool to create literature reviews and overviews of many documents on one specific topic, as is required for a PhD or a journal article.
+For the humanities in general, qualitative data analysis is a staple and the complementary coding, and synthesising of conclusions is invaluable. The atlas.ti programme is also simply a great tool to create literature reviews and overviews of many documents on one specific topic, as is required for a PhD or a journal article.
 
 It facilitates the discovery of patterns and makes analysis across different formats (pdf, video, images, twitter, geodata, networks, audio) easy in one place. Finally, it helps to generate useful data visualizations for a report, thesis or journal article.
 
@@ -41,7 +41,9 @@ The dataset we worked with during the course was very big and the idea of the to
 
 I think it’s important to distinguish between ‘big data’ and data science more broadly. The latter refers to computationally powered quantitative analysis and modelling techniques, even when applied to ‘smaller’ data sets, while the former is over- and misused to describe exactly that. 
 
-In that vein, analysing twitter data has become an interesting field of research in sociology, psychology and political science among other disciplines. in atlas.ti, one can simply press the button import twitter data, under the folder 'documents' and then import the set number of tweets. There is a huge drawback however, and that is the limitation that yuo can only import tweets from the past 7 days. I think this is a major flaw that severely incapacitates the utility of this tool.
+# Atlas.ti 
+
+In that vein, analysing twitter data has become an interesting field of research in sociology, psychology and political science among other disciplines. In the qualitative data analysis tool atlas.ti, one can simply import twitter data, under the folder 'documents' and then import the set number of tweets. There is a huge drawback however, and that is the limitation that yuo can only import tweets from the past 7 days. I think this is a major flaw that severely incapacitates the utility of this tool.
 
 ![twitterimport](/img/Tweetimport.png)
 
@@ -58,13 +60,13 @@ This is an example from a literature review I had to write for a philosophy clas
 
 To write a literature review can be seen as a data collection tool. It can be standalone research, or used to inform primary research. In the case of the example lit review (LR), we were supposed to review no more than 10 documents on a topic of distributive justice.
 
-1. Select and import documents
+(1) Select and import documents
 
 Once the documents for the LR are selected, you can open a new work space in Atlas.ti and import the documents by clicking import documents in the top left corner.
 
 ![Step1](/img/Step1.png)
 
-2. Reading the text: Coding, Quotations, Comments
+(2) Reading the text: Coding, Quotations, Comments
 
 You can read the documents in atlas and code them as you go. To code, select the sentence, paragraph or word that you would like to code, in the case of the example, I coded MDF which stands for Migration Distributive Framework because the snippet I coded is relevant for that cluster to be debated in the literature review. At first, it is challenging to not be too specific while coding but also not to general. It depends on the preference of the researcher, some people like to "chunk" some people like to "splice" and provide a code for very specific pieces of data. Of course, when the codes exceed 100, it is time to see if you can merge codes, or why such an excessibe number of codes is emerging.I prefer to stay as close to the expected subheadings of a LR as possible. Personally, I like to brainstorm before I have read the texts what codes I am expecting and later on I can always amend them as I go. 
 
@@ -72,9 +74,10 @@ The first document is always the hardest, because you need to decide what codes 
 
 ![Step2](/img/Step2Coding.png)
 
-![Step22](img/Step2-extended.png)
+![Step22](/img/Step2-extended.png)
+Quotations and Codes
 
-Unfortunately, my programme is in German, but when you right-click, the top option says "create quotation", short cut cmd+ H and then second option from the top is cmd + J and is "create code". To create a quotation is useful, if something is important but you do not yet have an idea of how to code it or it is an important piece of information about the text in general.
+Unfortunately, my programme is in German, but when you right-click, the top option says "create quotation", short cut cmd+ H and then second option from the top is cmd + J and is "create code". To create a quotation is useful, if something is important but you do not yet have an idea of how to code it or it is an important piece of information about the text in general, simply mark it as a quote.
 
 Several codes are always useful when creating an LR:
 * Thesis Statement
@@ -86,11 +89,11 @@ Further, to the right of the text, you can create a comment about the whole docu
 ![Comment](/img/Commentsection.png)
 
 
-3. After coding: analysis tools
+(3) After coding: analysis tools
 
 Entity managers: After coding, you can go to the code manager (see image below), where all the coded comments are listed by code and you can create a table of all the codes or select the onces you want to compare in Excel or a report in word (see second picture)
 
-![Codemanager]/(/img/Codemanager.png)
+![Codemanager](/img/Codemanager.png)
 Codemanager
 
 ![Createreporttable](/img/Report:Table.png)
@@ -106,32 +109,42 @@ A code document table serves the purpose of visualising the occurence codes in s
 ![Codedocument](/img/Code-document-table.png)
 Code-document table
 
-## Code groups
+To create a network, simply click Networks > New Network and drag the desired entities (documents, codes or single quotations into the white space (see image below).
 
-I have grouped the codes into three clusters: 
+![network](/img/Network.png)
+Network
+
+I find it very useful for myself, simply to visualize logical connections.
+Networks become more sophisticated, the more information you add, such as for example grouping codes. 
+
+I have grouped the codes into three clusters in this case:
+
 1. Global Justice
 2. Migration policy
 3. Migration Theory
 
-It can be useful when creating a network, simply to visualize logical connections.
-
+It can be useful when creating a network, 
 
 ![Alles](/img/Alles.png)
 
-In the above screenshot you can see the network I created on the basis of the 19 codes that I put into 3 code groups, the 8 documents that I coded.
+In the above screenshot you can see the network I created on the basis of the 19 codes that I put into 3 code groups, the 8 documents that I coded. I focused solely on the codes for the network, as it then formed the basis for my LR. 
 
 # Alternatives to Atlas.ti
 
-Atlas.ti costs
-Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for most researchers, it is still easier to strucutre data in more accessible formats like this (similar to Gephi in a way). That is why I wanted to share and add Atlas.ti to (my personal) course curriculum.
+The main rival of Atlas.ti is MaxQDA. Both try to establish themselves as the number 1 qualitative data analysis tool. There is also Nvivo. The reason why I use atlas.ti is because it was highly recommended to me by a professor at Stellenbosch University and it requires very little time to learn, as it is very intuitive. 
+
+As I have not used the other QDA software packages,  I can only speak to the pro's and con's of Atlas.ti.
+
+After using it for several different purposes, the main advantage was the versatility and simple logic of content coding. Originally, I had been looking for a QDA software to analyse interviews. One of the most annoying tasks is the transcription of interviews that can take a lot of time. With atlas.ti it is possible to simply code the audio file directly and only transcribe already coded parts of the interviews. That alone was a game-changer for my bachelor thesis. Another pro is the content focused way to read documents in general. I use it for all kinds of assigned reading because later on, I can just pull a report based on the codes I made along the way, much like I would have done previously by re-visiting highlighted sections of a text. 
+
+Disadvantages of atlas.ti are the limitations that features have. The twitter import is an amazing tool, yet, it is limited to tweets made in the past 7 days. Overall, for each feature there exists a programme that can perform the tasks more sophisticatedly (ex:Creation of networks/data visualizations in Gephi). 
+
+Once a researcher becomes skilled at programming more freely with R and Python, I can understand that it is better than using a limiting programme like Atlas.ti, however, for many researchers, it is still easier to strucutre data in more accessible formats like this (similar to Gephi in a way). That is why I wanted to share and add Atlas.ti to (my personal) course curriculum.
 
 
 # References
 
 Flaherty, E. (2019). Complexity and Resilience in the Social and Ecological Sciences. Palgrave Macmillan UK.
-
-
-
 
 
 
